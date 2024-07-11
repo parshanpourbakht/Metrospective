@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Starting Scene.unity
+    guid: aa966cc10802ed643becf2e72671735b
+  - enabled: 1
+    path: Assets/Scenes/Scene_Boneyard.unity
+    guid: f72fcd30758666b48a04d8f3f40f1559
+  - enabled: 1
+    path: Assets/Scenes/Scene_SeymourLake.unity
+    guid: 5dcc22b6866ec804bbd57d6698da6af4
+  - enabled: 1
+    path: Assets/Scenes/Scene_Riverside.unity
+    guid: cadee31b89d39a746aa6e9eb2a919edb
+  - enabled: 1
+    path: Assets/Scenes/Scene_Annacis.unity
+    guid: 48919ff6fb1baf146af1f5c7086df4a5
+  - enabled: 1
+    path: Assets/Scenes/Scene_Burns.unity
+    guid: fee7f6d9be5412042900f1d83fdfc722
+  - enabled: 1
+    path: Assets/Scenes/Scene_Reworld.unity
+    guid: 241f6e67d918e6a43b269b7bfbe822a1
+  - enabled: 1
+    path: Assets/Scenes/Video_Scene_Annacis.unity
+    guid: 11cf8fa7bf3deb04db11bd170c0b4338
+  - enabled: 1
+    path: Assets/Scenes/Video_Scene_Boneyard.unity
+    guid: 3c091d2dc6c40604786244e18f0cc656
+  - enabled: 1
+    path: Assets/Scenes/Video_Scene_Burns.unity
+    guid: e85d6cb32b834204daa8721edb587b8f
+  - enabled: 1
+    path: Assets/Scenes/Video_Scene_Reworld.unity
+    guid: f3ec175d6b6354d499c1b5f39ba859eb
+  - enabled: 1
+    path: Assets/Scenes/Video_Scene_Riverside.unity
+    guid: 6c1162e63f45b92439b9381e34ee4255
+  - enabled: 1
+    path: Assets/Scenes/Video_Scene_SeymourLake.unity
+    guid: 8c83bdd3a76561c46996f521d038d47f
+  - enabled: 1
+    path: Assets/Scenes/Scene_End_Screen.unity
+    guid: 2b87e8eeea94419489d4d08d15e168e9
+  - enabled: 1
+    path: Assets/Scenes/Scene_Grouse.unity
+    guid: c14c1a31b3fb64a42a4ca94761ea36f3
+  - enabled: 1
+    path: Assets/Scenes/Video_Scene_Grouse.unity
+    guid: 1ec670d9353d5d146a1693c40b7610ca
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 339c63605f58d6d489706e7ed5eb14d6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 99422399cc11a8645b62027b4c1375ad, type: 2}
