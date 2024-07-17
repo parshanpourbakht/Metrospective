@@ -133,7 +133,7 @@ PrefabInstance:
     - target: {fileID: 195688148009637587, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e380cec4e1d1ce649a9e5645b903286e, type: 2}
+      objectReference: {fileID: -3033667219593020291, guid: 86a7ab5587a29f745a2e54fa21bee188, type: 3}
     - target: {fileID: 332167291189119857, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
@@ -298,6 +298,30 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2692605693829409050, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 2692605693829409050, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 2692605693829409050, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 2692605693829409050, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2692605693829409050, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -337.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 2692605693829409050, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 34.5
+      objectReference: {fileID: 0}
     - target: {fileID: 2768788140952435618, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
@@ -326,6 +350,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3681193869485174808, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e380cec4e1d1ce649a9e5645b903286e, type: 2}
     - target: {fileID: 3720501301667998832, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -901,7 +929,7 @@ PrefabInstance:
     - target: {fileID: 6840164023222855293, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_Texture
       value: 
-      objectReference: {fileID: 2800000, guid: a43559c92fcdaa544ad1f0fd50a17b82, type: 3}
+      objectReference: {fileID: 2800000, guid: a9c30c9d6a0d3e743a966bb30c3bfb35, type: 3}
     - target: {fileID: 7118099098809720429, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_Name
       value: Display Window Variant
