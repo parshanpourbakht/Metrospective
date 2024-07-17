@@ -308,6 +308,30 @@ PrefabInstance:
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
       value: FadeOut
       objectReference: {fileID: 0}
+    - target: {fileID: 763328072902497272, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 763328072902497272, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 763328072902497272, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 763328072902497272, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 11.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 763328072902497272, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -318.2
+      objectReference: {fileID: 0}
+    - target: {fileID: 763328072902497272, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 33.7
+      objectReference: {fileID: 0}
     - target: {fileID: 1152438144678189876, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -400,6 +424,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2080616952652942074, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e380cec4e1d1ce649a9e5645b903286e, type: 2}
     - target: {fileID: 2768788140952435618, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
@@ -411,7 +439,7 @@ PrefabInstance:
     - target: {fileID: 3278291908703874097, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e380cec4e1d1ce649a9e5645b903286e, type: 2}
+      objectReference: {fileID: -3033667219593020291, guid: ffa51b757df4aae4ca43e763b4e9b431, type: 3}
     - target: {fileID: 3720501301667998832, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -762,7 +790,11 @@ PrefabInstance:
     - target: {fileID: 6840164023222855293, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_Texture
       value: 
-      objectReference: {fileID: 2800000, guid: 04aaaf8ab6a4e754a874bfad3a01645b, type: 3}
+      objectReference: {fileID: 2800000, guid: 828ec0db15097d54ca268e68ae2d39e6, type: 3}
+    - target: {fileID: 6840164023222855293, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
+      propertyPath: m_Maskable
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 7118099098809720429, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_Name
       value: Display Window Variant

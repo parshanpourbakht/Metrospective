@@ -704,6 +704,10 @@ PrefabInstance:
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
       value: FadeOut
       objectReference: {fileID: 0}
+    - target: {fileID: 4722804728322200610, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 5323079104408401496, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
@@ -756,12 +760,44 @@ PrefabInstance:
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 5438388485929000947, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: e380cec4e1d1ce649a9e5645b903286e, type: 2}
     - target: {fileID: 5857234463356190359, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6447062939795725654, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6715215921897031409, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 6715215921897031409, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 6715215921897031409, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 401.59338
+      objectReference: {fileID: 0}
+    - target: {fileID: 6715215921897031409, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 19.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6715215921897031409, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -393.7
+      objectReference: {fileID: 0}
+    - target: {fileID: 6715215921897031409, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 34.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 6715215921897031409, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6774405553647359049, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
@@ -831,7 +867,7 @@ PrefabInstance:
     - target: {fileID: 8851836633516046648, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: e380cec4e1d1ce649a9e5645b903286e, type: 2}
+      objectReference: {fileID: -3033667219593020291, guid: 86a7ab5587a29f745a2e54fa21bee188, type: 3}
     - target: {fileID: 9160210783658828018, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_Name
       value: Navigation Map
@@ -852,7 +888,7 @@ PrefabInstance:
     - target: {fileID: 6840164023222855293, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_Texture
       value: 
-      objectReference: {fileID: 2800000, guid: e8bdb1449b9c15c4a94aab5e85518eb9, type: 3}
+      objectReference: {fileID: 2800000, guid: db22725b83bfbb44e9e36a2294664737, type: 3}
     - target: {fileID: 7118099098809720429, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_Name
       value: Display Window Variant
