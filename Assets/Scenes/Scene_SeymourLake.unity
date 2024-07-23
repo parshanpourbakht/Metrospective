@@ -477,11 +477,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 553556671074998729, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -280
+      value: -269
       objectReference: {fileID: 0}
     - target: {fileID: 553556671074998729, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 29.2
+      value: -68.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 553556671074998729, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.98302126
+      objectReference: {fileID: 0}
+    - target: {fileID: 553556671074998729, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.18349175
+      objectReference: {fileID: 0}
+    - target: {fileID: 553556671074998729, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -21.146
       objectReference: {fileID: 0}
     - target: {fileID: 613953182146635642, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.size
@@ -1342,6 +1354,10 @@ PrefabInstance:
       propertyPath: handTooltip
       value: 
       objectReference: {fileID: 1070674783}
+    - target: {fileID: 6235753156807564175, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 6840164023222855293, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_Texture
       value: 
