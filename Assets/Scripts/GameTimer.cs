@@ -33,7 +33,7 @@ public class GameTimer : MonoBehaviour
         {
             // Check if the current scene is a video scene (index 7 to 12)
             int currentSceneIndex = SceneManager.GetActiveScene().buildIndex;
-            if (currentSceneIndex >= 7 && currentSceneIndex <= 12)
+            if (currentSceneIndex >= 8 && currentSceneIndex <= 14)
             {
                 // Call SetPreviousScene on the SceneManager game object with end scene index 13
                 GameObject sceneManager = GameObject.Find("SceneManager"); // Adjust the name if necessary

@@ -161,39 +161,39 @@ public class SceneTransition : MonoBehaviour
     }
     void LoadGrouse()
     {
-        SceneManager.LoadScene(14);
-    }
-    void LoadVideoGrouse()
-    {
-        SceneManager.LoadScene(15);
+        SceneManager.LoadScene(7);
     }
     void LoadVideoAnnacis()
     {
-        SceneManager.LoadScene(7);
+        SceneManager.LoadScene(8);
     }
       void LoadVideoBoneyard()
     {
-        SceneManager.LoadScene(8);
+        SceneManager.LoadScene(9);
     }
     void LoadVideoBurns()
     {
-        SceneManager.LoadScene(9);
+        SceneManager.LoadScene(10);
     }
     void LoadVideoReworld()
     {
-        SceneManager.LoadScene(10);
+        SceneManager.LoadScene(11);
     }
        void LoadVideoRiverside()
     {
-        SceneManager.LoadScene(11);
+        SceneManager.LoadScene(12);
     }
     void LoadVideoSeymourLake()
     {
-        SceneManager.LoadScene(12);
+        SceneManager.LoadScene(13);
+    }
+    void LoadVideoGrouse()
+    {
+        SceneManager.LoadScene(14);
     }
     void LoadEndScreen()
     {
-        SceneManager.LoadScene(13);
+        SceneManager.LoadScene(15);
     }
     void LoadPreviousScene(){
         SceneManager.LoadScene(previousSceneIndex);
