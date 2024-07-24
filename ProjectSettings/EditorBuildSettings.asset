@@ -27,6 +27,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Scene_Reworld.unity
     guid: 241f6e67d918e6a43b269b7bfbe822a1
   - enabled: 1
+    path: Assets/Scenes/Scene_Grouse.unity
+    guid: c14c1a31b3fb64a42a4ca94761ea36f3
+  - enabled: 1
     path: Assets/Scenes/Video_Scene_Annacis.unity
     guid: 11cf8fa7bf3deb04db11bd170c0b4338
   - enabled: 1
@@ -45,14 +48,11 @@ EditorBuildSettings:
     path: Assets/Scenes/Video_Scene_SeymourLake.unity
     guid: 8c83bdd3a76561c46996f521d038d47f
   - enabled: 1
-    path: Assets/Scenes/Scene_End_Screen.unity
-    guid: 2b87e8eeea94419489d4d08d15e168e9
-  - enabled: 1
-    path: Assets/Scenes/Scene_Grouse.unity
-    guid: c14c1a31b3fb64a42a4ca94761ea36f3
-  - enabled: 1
     path: Assets/Scenes/Video_Scene_Grouse.unity
     guid: 1ec670d9353d5d146a1693c40b7610ca
+  - enabled: 1
+    path: Assets/Scenes/Scene_End_Screen.unity
+    guid: 2b87e8eeea94419489d4d08d15e168e9
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 339c63605f58d6d489706e7ed5eb14d6, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 99422399cc11a8645b62027b4c1375ad, type: 2}
