@@ -322,7 +322,7 @@ MonoBehaviour:
   _autoOpen: 1
   _autoPlayOnStart: 1
   _loop: 0
-  _audioVolume: 1
+  _audioVolume: 0.04814812
   _audioBalance: 0
   _audioMuted: 0
   _playbackRate: 1
@@ -391,7 +391,7 @@ MonoBehaviour:
   _pauseMediaOnAppPause: 1
   _playMediaOnAppUnpause: 1
   _persistent: 0
-  _forceFileFormat: 3
+  _forceFileFormat: 0
   _optionsWindows:
     httpHeaders:
       httpHeaders: []
