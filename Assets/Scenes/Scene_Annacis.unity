@@ -130,6 +130,26 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 332167291189119857, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1418303646}
+    - target: {fileID: 332167291189119857, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 695061149133177152, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1418303646}
+    - target: {fileID: 695061149133177152, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 1078000946457999675, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1876880019114473516, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_LocalPosition.x
       value: -13.407894
@@ -170,6 +190,42 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2602162188749699046, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: da8dc29c8e90ca04eb9718c359e035ba, type: 2}
+    - target: {fileID: 2768788140952435618, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1418303646}
+    - target: {fileID: 2768788140952435618, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 4571845182997584695, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1418303646}
+    - target: {fileID: 4571845182997584695, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1418303646}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 5323079104408401496, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1418303646}
+    - target: {fileID: 5323079104408401496, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
     - target: {fileID: 5438388485929000947, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -209,6 +265,14 @@ PrefabInstance:
     - target: {fileID: 6715215921897031409, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
       value: -18.485
+      objectReference: {fileID: 0}
+    - target: {fileID: 6774405553647359049, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1418303646}
+    - target: {fileID: 6774405553647359049, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
       objectReference: {fileID: 0}
     - target: {fileID: 9160210783658828018, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_Name

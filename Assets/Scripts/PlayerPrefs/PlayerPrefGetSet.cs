@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerPrefGetSet : MonoBehaviour
 {
-    // Start is called before the first frame update
     public void SetAnnacisVisited()
     {
         PlayerPrefs.SetInt("annacis", 0);    
@@ -28,5 +27,9 @@ public class PlayerPrefGetSet : MonoBehaviour
     public void SetSeymourVisited()
     {
         PlayerPrefs.SetInt("seymour", 0);
+    }
+    public void SetGrouseVisited()
+    {
+        PlayerPrefs.SetInt("grouse", 0);
     }
 }

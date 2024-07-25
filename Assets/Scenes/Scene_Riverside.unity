@@ -300,7 +300,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2625752422969458035, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.317
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2625752422969458035, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.06
       objectReference: {fileID: 0}
     - target: {fileID: 2692605693829409050, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_LocalScale.x
@@ -462,6 +466,14 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1189962864}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
     - target: {fileID: 5323079104408401496, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 
@@ -518,6 +530,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6661825954379061261, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: da8dc29c8e90ca04eb9718c359e035ba, type: 2}
     - target: {fileID: 6774405553647359049, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
       value: 

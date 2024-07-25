@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class PlayerPrefInit : MonoBehaviour
 {
-    // Start is called before the first frame update
     void Start()
     {
         PlayerPrefs.SetInt("annacis", 1);
@@ -13,6 +12,7 @@ public class PlayerPrefInit : MonoBehaviour
         PlayerPrefs.SetInt("reworld", 1);       
         PlayerPrefs.SetInt("riverside", 1);       
         PlayerPrefs.SetInt("seymour", 1);
+        PlayerPrefs.SetInt("grouse", 1);
         PlayerPrefs.SetInt("buttonTooltip", 1);
         PlayerPrefs.SetInt("videoTooltip", 1);
         PlayerPrefs.SetInt("startTooltip", 1);

@@ -1041,6 +1041,10 @@ PrefabInstance:
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[1].m_Arguments.m_ObjectArgumentAssemblyTypeName
       value: UnityEngine.Object, UnityEngine
       objectReference: {fileID: 0}
+    - target: {fileID: 3729078838570014199, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: da8dc29c8e90ca04eb9718c359e035ba, type: 2}
     - target: {fileID: 3794045168321283799, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: m_IsActive
       value: 0
@@ -1070,6 +1074,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 1077169685}
     - target: {fileID: 4571845182997584695, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 1077169685}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
       value: FadeOut
       objectReference: {fileID: 0}

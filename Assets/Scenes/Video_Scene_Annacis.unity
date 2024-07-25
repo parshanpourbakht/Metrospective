@@ -130,6 +130,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1209390096467797096, guid: 97b375b48d6faf242adbb88d03fae830, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2381185569209731246, guid: 97b375b48d6faf242adbb88d03fae830, type: 3}
       propertyPath: m_Name
       value: OVRCameraRigInteraction

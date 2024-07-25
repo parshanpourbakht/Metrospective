@@ -425,6 +425,11 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!1 &811660536 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5326835739647171230, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+  m_PrefabInstance: {fileID: 1085578887}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &883251916
 GameObject:
   m_ObjectHideFlags: 0
@@ -772,6 +777,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6454522957530190527}
     - target: {fileID: 4571845182997584695, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 6454522957530190527}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
       value: FadeOut
       objectReference: {fileID: 0}
@@ -1316,6 +1329,7 @@ MonoBehaviour:
   reworldPin: {fileID: 1085578890}
   riversidePin: {fileID: 1085578889}
   seymourPin: {fileID: 1085578888}
+  grousePin: {fileID: 811660536}
 --- !u!1 &1996453355
 GameObject:
   m_ObjectHideFlags: 0

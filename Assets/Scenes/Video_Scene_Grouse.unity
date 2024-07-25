@@ -206,7 +206,7 @@ MonoBehaviour:
         m_CallState: 2
       - m_Target: {fileID: 1199488339}
         m_TargetAssemblyTypeName: PlayerPrefGetSet, Assembly-CSharp
-        m_MethodName: SetReworldVisited
+        m_MethodName: SetGrouseVisited
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -229,7 +229,7 @@ MonoBehaviour:
           m_BoolArgument: 0
         m_CallState: 2
   _eventMask: 16
-  _pauseMediaOnAppPause: 1
+  _pauseMediaOnAppPause: 0
   _playMediaOnAppUnpause: 1
   _persistent: 0
   _forceFileFormat: 3
@@ -495,6 +495,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1209390096467797096, guid: 97b375b48d6faf242adbb88d03fae830, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2381185569209731246, guid: 97b375b48d6faf242adbb88d03fae830, type: 3}
       propertyPath: m_Name
       value: OVRCameraRigInteraction

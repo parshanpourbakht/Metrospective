@@ -130,6 +130,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1209390096467797096, guid: 97b375b48d6faf242adbb88d03fae830, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2381185569209731246, guid: 97b375b48d6faf242adbb88d03fae830, type: 3}
       propertyPath: m_Name
       value: OVRCameraRigInteraction
@@ -314,7 +318,7 @@ MonoBehaviour:
   _mediaReference: {fileID: 11400000, guid: 0d696b76d81c0e640a7dbcc2d148b9ec, type: 2}
   _mediaPath:
     _pathType: 0
-    _path: file:///sdcard/Download/SecondDraft.mp4
+    _path: file:///sdcard/Download/Reworld.mp4
   _fallbackMediaHints:
     transparency: 0
     alphaPacking: 0

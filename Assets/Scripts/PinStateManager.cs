@@ -12,6 +12,7 @@ public class PinStateManager : MonoBehaviour
         if (!PlayerPrefs.HasKey("reworld_State")) PlayerPrefs.SetInt("reworld_State", 0);
         if (!PlayerPrefs.HasKey("riverside_State")) PlayerPrefs.SetInt("riverside_State", 0);
         if (!PlayerPrefs.HasKey("seymourlake_State")) PlayerPrefs.SetInt("seymourlake_State", 0);
+        if (!PlayerPrefs.HasKey("grouse_State")) PlayerPrefs.SetInt("grouse_State", 0);
         
         PlayerPrefs.Save();
     }
@@ -50,6 +51,11 @@ public class PinStateManager : MonoBehaviour
     public void SetSeymourLakeState(bool state)
     {
         PlayerPrefs.SetInt("seymourlake_State", state ? 1 : 0);
+        PlayerPrefs.Save();
+    }
+    public void SetGrouseState(bool state)
+    {
+        PlayerPrefs.SetInt("grouse_State", state ? 1 : 0);
         PlayerPrefs.Save();
     }
 }

@@ -322,15 +322,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7394311874240262924, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7394311874240262924, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_LocalRotation.y
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7394311874240262924, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_LocalRotation.z
-      value: 0
+      value: -0
       objectReference: {fileID: 0}
     - target: {fileID: 7394311874240262924, guid: 2b2e88d6cc5da4e45b9672cd13e34411, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
@@ -750,6 +750,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3715449845425390869, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: da8dc29c8e90ca04eb9718c359e035ba, type: 2}
     - target: {fileID: 3720501301667998832, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.size
       value: 2
@@ -847,6 +851,14 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 781755124}
     - target: {fileID: 4571845182997584695, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
+      value: FadeOut
+      objectReference: {fileID: 0}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
+      propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_Target
+      value: 
+      objectReference: {fileID: 781755124}
+    - target: {fileID: 5300970677558912698, guid: 9ad13d847f86b0949bcdc30701eb1d66, type: 3}
       propertyPath: _whenSelect.m_PersistentCalls.m_Calls.Array.data[2].m_MethodName
       value: FadeOut
       objectReference: {fileID: 0}
@@ -1340,7 +1352,7 @@ SceneRoots:
   - {fileID: 215833342}
   - {fileID: 2131855490}
   - {fileID: 817567928}
-  - {fileID: 1541387786}
-  - {fileID: 781755123}
   - {fileID: 273843643}
+  - {fileID: 781755123}
+  - {fileID: 1541387786}
   - {fileID: 662813949}
