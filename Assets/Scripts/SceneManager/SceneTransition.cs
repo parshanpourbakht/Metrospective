@@ -85,37 +85,37 @@ public class SceneTransition : MonoBehaviour
 
     public void GoToVideoBoneyard()
     {
-        SetPreviousScene();
+        SetPreviousScene(1);
         Invoke("LoadVideoBoneyard", FadeOutTime);
     }
 
     public void GoToVideoSeymourLake()
     {
-        SetPreviousScene();
+        SetPreviousScene(2);
         Invoke("LoadVideoSeymourLake", FadeOutTime);
     }
 
     public void GoToVideoRiverside()
     {
-        SetPreviousScene();
+        SetPreviousScene(3);
         Invoke("LoadVideoRiverside", FadeOutTime);
     }
 
     public void GoToVideoAnnacis()
     {
-        SetPreviousScene();
+        SetPreviousScene(4);
         Invoke("LoadVideoAnnacis", FadeOutTime);
     }
 
     public void GoToVideoBurns()
     {
-        SetPreviousScene();
+        SetPreviousScene(5);
         Invoke("LoadVideoBurns", FadeOutTime);
     }
 
     public void GoToVideoReworld()
     {
-        SetPreviousScene();
+        SetPreviousScene(6);
         Invoke("LoadVideoReworld", FadeOutTime);
     }
 
@@ -127,7 +127,7 @@ public class SceneTransition : MonoBehaviour
 
     public void GoToVideoGrouse()
     {
-        SetPreviousScene();
+        SetPreviousScene(7);
         Invoke("LoadVideoGrouse", FadeOutTime);
     }
 
